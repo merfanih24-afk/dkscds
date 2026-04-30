@@ -1,0 +1,7 @@
+{
+  "name": "danava",
+  "version": "1.0.0",
+  "description": "danava is a simple and efficient tool for managing your projects.",
+  "private": true,
+  "license": "MIT"
+}
