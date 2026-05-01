@@ -1,6 +1,11 @@
 {
   "version": 2,
-  "name": "danava",
+  "functions": {
+    "index.js": {
+      "memory": 128,
+      "maxDuration": 60
+    }
+  },
   "rewrites": [
     { "source": "/(.*)", "destination": "/index" }
   ],
